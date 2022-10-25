@@ -9,4 +9,4 @@
 * автоподхват каталога бибилиотек C:\git\rossko-vanessa-lib
 * для 5.6.0
 
-Как указать свой
+![image](https://github.com/kuzyara/rossko-vanessa-add/blob/master/2019-04-04_13-22-20.png?raw=true)
